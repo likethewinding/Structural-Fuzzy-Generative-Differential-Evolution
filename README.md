@@ -1,1 +1,1 @@
-# Structural-Fuzzy-Generative-Differential-Evolution-SFG-DE-
+# Structural-Fuzzy-Generative-Differential-Evolution-

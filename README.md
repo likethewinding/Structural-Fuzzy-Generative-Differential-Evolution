@@ -19,7 +19,7 @@ To run the algorithm, simply open MATLAB, navigate to the project directory, and
 ```matlab
 main
 
-## ⚠️ Notice
+### ⚠️ **Notice**
 
 This paper has been submitted to the Elsevier journal *Swarm and Evolutionary Computation* for revision.  
 The source code provided in this repository is intended solely for the purpose of peer review and may not be used for any other purposes without the authors' explicit prior written permission.

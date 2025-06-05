@@ -10,7 +10,7 @@ This repository provides the official MATLAB implementation of Structural Fuzzy 
 
 ### Requirements
 
-- MATLAB R2018a or later (tested on R2020a)
+- MATLAB R2018a or later
 
 ### Instructions
 

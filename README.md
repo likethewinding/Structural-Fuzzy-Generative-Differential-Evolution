@@ -35,7 +35,7 @@ main
 
 ## 📄 Paper Access
 
-Our paper **"SFG-DE: An explainable and evolvable differential evolution for learning to generate operator structures"** has been published in *Applied Soft Computing*.
+Our paper **"SFG-DE: An explainable and evolvable differential evolution for learning to generate operator structures"** has been published in *Swarm and Evolutionary Computation*.
 
 🔗 **Free 50-day Access (Elsevier Share Link)**  
 [https://authors.elsevier.com/c/1mDAa7sfCTOauN](https://authors.elsevier.com/c/1mDAa7sfCTOauN)

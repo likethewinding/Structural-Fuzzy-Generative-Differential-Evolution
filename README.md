@@ -33,6 +33,16 @@ To run the algorithm, simply open MATLAB, navigate to the project directory, and
 main
 ```
 
+## 📄 Paper Access
+
+Our paper **"SFG-DE: An explainable and evolvable differential evolution for learning to generate operator structures"** has been published in *Applied Soft Computing*.
+
+🔗 **Free 50-day Access (Elsevier Share Link)**  
+[https://authors.elsevier.com/c/1mDAa7sfCTOauN](https://authors.elsevier.com/c/1mDAa7sfCTOauN)
+
+Anyone can read or download the final version via this link before **Jan 23, 2026**.
+
+
 ## ⚠️ Notice:
 
 This paper has been accepted for publication in the Elsevier journal *Swarm and Evolutionary Computation*.   
